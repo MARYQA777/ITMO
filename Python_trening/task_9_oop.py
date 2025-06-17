@@ -75,8 +75,4 @@ class Soda:
         drink1 = Soda()
         drink2 = Soda('Малина')
         drink1 = 'show_my_drink()'
-        drink2 = 'show_my_drink()'
-
-
-
-
+        drink2 = 'show_my_drink()'# Выводим текст каждой кнопки
